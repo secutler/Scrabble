@@ -46,3 +46,15 @@ C:\dev\workspace\git\ScrabbleGame\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.Ge
 C:\dev\workspace\git\ScrabbleGame\Scrabble\Scrabble\obj\Debug\Scrabble.exe
 C:\dev\workspace\git\ScrabbleGame\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
 C:\dev\workspace\git\ScrabbleGame\Scrabble\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
+C:\dev\workspace\ScrabbleGame\Scrabble\bin\Debug\Scrabble.exe.config
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.exe
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.pdb
+C:\dev\workspace\ScrabbleGame\Scrabble\bin\Debug\SOWPODS (Europe Scrabble Word List).txt
+C:\dev\workspace\ScrabbleGame\Scrabble\bin\Debug\Scrabble.exe
+C:\dev\workspace\ScrabbleGame\Scrabble\bin\Debug\Scrabble.pdb
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.Board.resources
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.Form1.resources
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.ModalWord.resources
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+C:\dev\workspace\ScrabbleGame\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.Cache
